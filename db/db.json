@@ -1,14 +1,1 @@
-{
-    "allnotes": 
-
-
-[
-    {
-        "title":"Test Title",
-        "text":"Test text"
-    }
-]
-
-
-
-}
+[{"title":"Test Title","text":"Test text"},{"id":1,"title":"test","text":"test"},{"id":87,"title":"test2","text":"msf"}]
